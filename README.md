@@ -36,4 +36,4 @@ A modern property rental platform built for Bangladesh, supporting local payment
 
 ```bash
 git clone https://github.com/shakil5281/Rent.git
-cd rent-bd-app
+cd Rent
